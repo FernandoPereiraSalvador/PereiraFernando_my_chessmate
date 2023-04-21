@@ -7,6 +7,8 @@ package mychessmate;
 /**
  *
  * @author Melvic
+ * @author Documentation: Fernando Pereira
+ *
  */
 public class GameData {
 

@@ -11,6 +11,7 @@ import javax.swing.*;
  * Dialog box to allow user to select a promotion piece when a pawn reaches the opposite end of the board.
  *
  * @author Melvic
+ * @author Documentation: Fernando Pereira
  */
 public class PromotionPane extends JDialog implements ActionListener{
     int index;

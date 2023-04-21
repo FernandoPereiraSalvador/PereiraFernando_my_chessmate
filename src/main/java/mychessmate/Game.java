@@ -10,6 +10,8 @@ package mychessmate;
  * It contains information about the pieces, their locations, and the current state of the game.
  *
  * @author Melvic
+ * @author Documentation: Fernando Pereira
+ *
  */
 public class Game {          
     Position position;

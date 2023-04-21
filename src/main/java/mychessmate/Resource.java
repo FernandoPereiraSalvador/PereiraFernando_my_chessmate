@@ -14,6 +14,7 @@ import java.util.ResourceBundle;
  * Resource class that loads properties file for MyChessmate game
  *
  * @author Melvic
+ * @author Documentation: Fernando Pereira
  */
 public class Resource {
 

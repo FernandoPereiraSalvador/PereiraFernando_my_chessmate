@@ -1,0 +1,2 @@
+This program does not belong to me, my contribution is limited only to the documentation through the use of the Javadoc tool.
+Original repository: https://github.com/melvic-ybanez/my_chessmate.git

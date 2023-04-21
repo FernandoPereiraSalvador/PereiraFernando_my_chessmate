@@ -11,6 +11,7 @@ import java.util.List;
  * This class generates and stores all possible moves that can be made by each piece of a particular player.
  *
  * @author Melvic
+ * @author Documentation: Fernando Pereira
  */
 public class MoveGenerator {    
     Position position;

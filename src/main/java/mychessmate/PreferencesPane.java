@@ -12,7 +12,7 @@ import java.awt.event.*;
  * A class representing a JFrame window for setting game preferences such as level and color.
  *
  * @author Melvic
- * @author Melvic
+ * @author Documentation: Fernando Pereira
  */
 public class PreferencesPane extends JFrame implements ActionListener{
      JSlider levelSlider;

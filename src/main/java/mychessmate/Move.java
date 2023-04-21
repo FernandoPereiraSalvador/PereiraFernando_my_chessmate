@@ -10,6 +10,8 @@ package mychessmate;
  * The move is defined by the location of the piece being moved and the location where the piece is being moved to.
  *
  * @author Melvic
+ * @author Documentation: Fernando Pereira
+ *
  */
 public class Move {
     int source_location;

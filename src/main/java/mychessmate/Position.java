@@ -9,6 +9,7 @@ package mychessmate;
  * last move made, and pieces owned by the player and the computer.
  *
  * @author Melvic
+ * @author Documentation: Fernando Pereira
  */
 public class Position {
     Move last_move;

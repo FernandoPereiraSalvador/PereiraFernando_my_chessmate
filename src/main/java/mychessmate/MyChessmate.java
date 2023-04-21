@@ -23,6 +23,7 @@ import javax.imageio.ImageIO;
  * It extends the JFrame class to create the game window and handles the game logic.
  *
  * @author Melvic
+ * @author Documentation: Fernando Pereira
  */
 public class MyChessmate extends JFrame implements MouseListener{
     Position position;        

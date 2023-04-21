@@ -8,6 +8,7 @@ package mychessmate;
  * This class represents a chess piece, with a specific value, location and movement state.
  *
  * @author Melvic
+ * @author Documentation: Fernando Pereira
  */
 public class Piece {
 

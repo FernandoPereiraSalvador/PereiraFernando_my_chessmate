@@ -5,10 +5,12 @@
 package mychessmate;
 
 /**
- * Evaluator is a class that evaluates the score of a given chess position based on the values and locations of each piece. 
+ * Evaluator is a class that evaluates the score of a given chess position based on the values and locations of each piece.
  * It contains a single method, "evaluate", that takes a "Position" object as input and returns an integer score.
  *
  * @author Melvic
+ * @author Documentation: Fernando Pereira
+ *
  */
 public class Evaluator {   
 

@@ -14,6 +14,7 @@ import java.awt.*;
  * It displays information about the program, such as its version, category, author, and date created.
  *
  * @author melvicYbanez
+ * @author Documentation: Fernando Pereira
  */
 public class AboutPane extends JPanel{
 
