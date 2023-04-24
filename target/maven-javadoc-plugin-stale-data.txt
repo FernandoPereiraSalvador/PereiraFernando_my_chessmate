@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/TESTER/OneDrive/Desktop/my_chessmate/PereiraFernando_my_chessmate/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/TESTER/OneDrive/Desktop/my_chessmate/PereiraFernando_my_chessmate/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'my_chessmate 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'my_chessmate 1.0-SNAPSHOT API'
+mychessmate
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\src\main\java = 1682085163234
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\allclasses-index.html = 1682107274413
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\allpackages-index.html = 1682107274418
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\constant-values.html = 1682107274160
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\copy.svg = 1682107274570
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\element-list = 1682107274094
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\help-doc.html = 1682107274503
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\index-all.html = 1682107274485
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\index.html = 1682107274493
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\jquery-ui.overrides.css = 1682107274912
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\member-search-index.js = 1682107274428
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\module-search-index.js = 1682107274421
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\overview-summary.html = 1682062587094
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\overview-tree.html = 1682107274383
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\package-search-index.js = 1682107274423
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\script.js = 1682107274553
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\search-page.js = 1682107274580
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\search.html = 1682107274490
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\search.js = 1682107274576
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\serialized-form.html = 1682107274237
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\stylesheet.css = 1682107274519
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\tag-search-index.js = 1682107274430
+C:\Users\TESTER\OneDrive\Desktop\my_chessmate\PereiraFernando_my_chessmate\target\site\apidocs\type-search-index.js = 1682107274425
